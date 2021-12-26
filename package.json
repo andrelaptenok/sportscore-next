@@ -8,13 +8,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "antd": "^4.17.4",
+    "babel-plugin-styled-components": "^2.0.2",
+    "less": "^4.1.2",
     "next": "12.0.7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "sass": "^1.45.1",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@types/node": "17.0.4",
     "@types/react": "17.0.38",
+    "@types/styled-components": "^5.1.19",
     "eslint": "8.5.0",
     "eslint-config-next": "12.0.7",
     "typescript": "4.5.4"
